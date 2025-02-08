@@ -13,4 +13,16 @@ From Youtube, I think this is helpful to understand how to start using Stata. (à
 
 
 ## Data Visualization
+Slide for the class 
+https://github.com/chaleampong/dataviz/blob/main/Data_visualization_slide_20250209.pdf
 
+### Data for intro to Stata
+https://github.com/chaleampong/dataviz/blob/main/sleep5ed.xlsx
+https://github.com/chaleampong/dataviz/blob/main/sleep_codebook.pdf
+
+### Stata do file
+https://github.com/chaleampong/dataviz/blob/main/1_single_continuous_var.do
+https://github.com/chaleampong/dataviz/blob/main/2_single_discrete_var.do
+https://github.com/chaleampong/dataviz/blob/main/3_two_continuos_var.do
+https://github.com/chaleampong/dataviz/blob/main/4_two_discrete_var.do
+https://github.com/chaleampong/dataviz/blob/main/5_three_or_more_vars.do
