@@ -37,6 +37,9 @@ https://github.com/chaleampong/dataviz/blob/main/5_three_or_more_vars.do
 ## Recorded Lectures
 ### Day 1
 [Part 1 Introduction to Stata](https://youtu.be/K26llgNzprc)
+
 [Part 2 Data Visualization - One continuous variable](https://youtu.be/cX8Toz9Zoc0)
 
 ### Day 2
+
+[Data Visualization Day 2](https://youtu.be/T9_F5ZYUR9k)
